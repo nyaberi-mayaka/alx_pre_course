@@ -2,4 +2,4 @@
 ;; To create a file, visit it with C-x C-f and enter text in its buffer.
 
 #!/bin/bash
-echo "School"
+echo "The school is open!"
